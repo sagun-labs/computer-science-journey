@@ -1,0 +1,17 @@
+# Compiled C files
+*.o
+*.out
+*.exe
+
+# Build directories
+build/
+bin/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
